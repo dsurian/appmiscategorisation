@@ -1,0 +1,6 @@
+Arcade	1
+Brain	2
+Cards	3
+Casual	4
+Racing	5
+SportsGames	6
